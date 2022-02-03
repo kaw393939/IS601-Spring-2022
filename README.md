@@ -7,7 +7,7 @@
 4.  [Class Recording 4 - Jan 27 2022](https://youtu.be/rdqZ5_QREc4)
 ## Class Sessions Week 3
 5.  [Class Recording 5 - Jan 27 2022](https://youtu.be/hULCrCA7UR8)
-6.  [Class Recording 5 - Jan 27 2022](https://youtu.be/0NykBuc7FHg)
+6.  [Class Recording 6 - Feb 3 2022](https://youtu.be/0NykBuc7FHg)
 
 
 

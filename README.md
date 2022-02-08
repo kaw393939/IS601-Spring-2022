@@ -8,6 +8,8 @@
 ## Class Sessions Week 3
 5.  [Class Recording 5 - Jan 27 2022](https://youtu.be/hULCrCA7UR8)
 6.  [Class Recording 6 - Feb 3 2022](https://youtu.be/L1hzqg67Nd4)
+## Class Sessions Week 4
+7.  [Class Recording 7 (Docker Flask Git Pycharm Setup) - Feb 8 2022](https://youtu.be/MO0dSIJRN8s)
 
 
 

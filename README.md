@@ -12,8 +12,9 @@
 7.  [Class Recording 7 (Docker Flask Git Pycharm Setup) - Feb 8 2022](https://youtu.be/MO0dSIJRN8s)
 8.  [Class Recording 8 (Intro to Web Pages - Part 1) - Feb 10 2022](https://youtu.be/Mwy42CfKsL0)
 ## Class Sessions Week 5
-9.  [Class Recording 8 (Intro to Web Pages - Part 2) - Feb 17 2022](https://youtu.be/yVPjQNzso2g)
-
+9.  [Class Recording 9 (Intro to Web Pages - Part 2) - Feb 17 2022](https://youtu.be/yVPjQNzso2g)
+## Class Sessions Week 6
+10.  [Class Recording 10 Setup new Repo with CI/CD to publish site to Heroku) - Feb 17 2022](https://youtu.be/9VFqJoe8WWw)
 
 
 

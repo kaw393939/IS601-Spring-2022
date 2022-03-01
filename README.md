@@ -14,10 +14,10 @@
 ## Class Sessions Week 5
 9.  [Class Recording 9 (Intro to Web Pages - Part 2) - Feb 17 2022](https://youtu.be/yVPjQNzso2g)
 ## Class Sessions Week 6
-10.  [Class Recording 10 Setup new Repo with CI/CD to publish site to Heroku) - Feb 22 2022](https://youtu.be/9VFqJoe8WWw)
+10.  [Class Recording 10 Setup new Repo with CI/CD to publish site to Heroku - Feb 22 2022](https://youtu.be/9VFqJoe8WWw)
 11.  [Class Recording 11 Setting Up Simple pages and Testing - Project 1 Overview) - Feb 24 2022](https://youtu.be/XAO5fqYPEkA)
 ## Class Sessions Week 7
-10.  [Class Recording 12 Calculator Project) - Mar 1 2022](https://youtu.be/rVUtZc6X_Kk)
+10.  [Class Recording 12 Calculator Project - Mar 1 2022](https://youtu.be/rVUtZc6X_Kk)
 
 
 

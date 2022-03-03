@@ -18,6 +18,7 @@
 11.  [Class Recording 11 Setting Up Simple pages and Testing - Project 1 Overview) - Feb 24 2022](https://youtu.be/XAO5fqYPEkA)
 ## Class Sessions Week 7
 10.  [Class Recording 12 Calculator Project - Mar 1 2022](https://youtu.be/rVUtZc6X_Kk)
+11.  [Class Recording 13 Calculator Project with Calculations - Mar 3 2022](https://youtu.be/Ou2Ntb6yHQc)
 
 
 

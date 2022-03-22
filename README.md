@@ -22,6 +22,9 @@
 ## Class Sessions Week 8
 14.  [Class Recording 14 Calculation History and Project 2 Review - Mar 7 2022](https://youtu.be/QldC_cFpReg)
 15.  [Class Recording 15 Review and Preview of Database for after spring break - Mar 10 2022](https://youtu.be/lnl8OuYSxo4)
+## Class Sessions Week 9
+16.  [Class Recording 16 Welcome Back from Spring Break - Mar 22 2022](https://youtu.be/avPJEtCWXjQ)
+
 
 
 

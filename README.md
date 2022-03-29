@@ -24,7 +24,7 @@
 15.  [Class Recording 15 Review and Preview of Database for after spring break - Mar 10 2022](https://youtu.be/lnl8OuYSxo4)
 ## Class Sessions Week 9
 16.  [Class Recording 16 Welcome Back from Spring Break - Mar 22 2022](https://youtu.be/avPJEtCWXjQ)
-
+17.  [Class Recording 17 Adding Auth and other Things part 1 - Mar 24 2022](https://youtu.be/KKZnypuLBAs)
 
 
 

@@ -25,9 +25,10 @@
 ## Class Sessions Week 9
 16.  [Class Recording 16 Welcome Back from Spring Break - Mar 22 2022](https://youtu.be/avPJEtCWXjQ)
 17.  [Class Recording 17 Adding Auth and other Things part 1 - Mar 24 2022](https://youtu.be/KKZnypuLBAs)
-## Class Session Week 10
+## Class Sessions Week 10
 18.  [Mar 29 Flask Error and Overview of Class](https://youtu.be/RIzrRbeGRQU)
-
+## Class Sessions Week 11
+19.  [Apr 5 Flask Logging](https://youtu.be/Mjklk5i8aC4)
 
 
 

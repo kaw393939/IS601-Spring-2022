@@ -29,7 +29,7 @@
 18.  [Mar 29 Flask Error and Overview of Class](https://youtu.be/RIzrRbeGRQU)
 ## Class Sessions Week 11
 19.  [Apr 5 Flask Logging](https://youtu.be/Mjklk5i8aC4)
-
+20.  [Apr 7 Flask Logging Refactor](https://youtu.be/swsQo4BwoPw)
 
 
 

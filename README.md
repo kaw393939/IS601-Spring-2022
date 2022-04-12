@@ -30,7 +30,8 @@
 ## Class Sessions Week 11
 19.  [Apr 5 Flask Logging](https://youtu.be/Mjklk5i8aC4)
 20.  [Apr 7 Flask Logging Refactor](https://youtu.be/BwuOKk-o7Ac)
-
+## Class Sessions Week 12
+21. [April 12 Flask Project 4 Intro](https://youtu.be/07FC3HtuVnY) Short - Worked in class
 
 
 

@@ -33,6 +33,7 @@
 ## Class Sessions Week 12
 21. [April 12 Flask Project 4 Intro](https://youtu.be/07FC3HtuVnY) Short - Worked in class
 22. [April 14 Logging and Getting Ready for Production](https://youtu.be/cZT74yjgePg) - config_log_upgrade branch
-
+## Class Sessions Week 13
+23. [April 20 SqlAlchemy](https://youtu.be/hU4DiTAkaCY)
 
 

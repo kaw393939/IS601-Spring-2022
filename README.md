@@ -35,5 +35,5 @@
 22. [April 14 Logging and Getting Ready for Production](https://youtu.be/cZT74yjgePg) - config_log_upgrade branch
 ## Class Sessions Week 13
 23. [April 20 SqlAlchemy](https://youtu.be/hU4DiTAkaCY)
-24. [April 21 Debuging and General Issues - Fixing the problem with pytest failing on github](https://youtu.be/ZwBZroniWrM)Use the google map branch
+24. [April 21 Debuging and General Issues - Fixing the problem with pytest failing on github](https://youtu.be/zNjNsUdkEQ0)Use the google map branch
 

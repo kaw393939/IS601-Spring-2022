@@ -36,4 +36,5 @@
 ## Class Sessions Week 13
 23. [April 20 SqlAlchemy](https://youtu.be/hU4DiTAkaCY)
 24. [April 21 Debuging and General Issues - Fixing the problem with pytest failing on github](https://youtu.be/zNjNsUdkEQ0)Use the google map branch
-
+## Class Sessions Week 14
+25. [April 26 Flask Errors with Deployment and Overview of Google Maps Branch](https://youtu.be/FwFHEDqEy5o)

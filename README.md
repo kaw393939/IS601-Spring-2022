@@ -38,3 +38,4 @@
 24. [April 21 Debuging and General Issues - Fixing the problem with pytest failing on github](https://youtu.be/zNjNsUdkEQ0)Use the google map branch
 ## Class Sessions Week 14
 25. [April 26 Flask Errors with Deployment and Overview of Google Maps Branch](https://youtu.be/FwFHEDqEy5o)
+26. [April 28 Flask Email and Many To Many Relationship](https://youtu.be/Vw5bxhBUK1c)
